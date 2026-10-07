@@ -1,0 +1,20 @@
+[
+    {
+        "nama": "Sabun",
+        "kategori": "Mandi",
+        "stok": 50,
+        "harga": 4500
+    },
+    {
+        "nama": "Teh Celup",
+        "kategori": "Minuman",
+        "stok": 40,
+        "harga": 8500
+    },
+    {
+        "nama": "Kopi",
+        "kategori": "Minuman",
+        "stok": 45,
+        "harga": 30000
+    }
+]
